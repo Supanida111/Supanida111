@@ -1,20 +1,20 @@
-## Hi there 👋
+# Hi 👋 I’m Supanida
 
-Supanida
-Tangmo 🍉
-cake 🎂
+🎓 Studying AI & Data Science  
+💼 Currently doing an internship and learning from real-world projects  
+🐍 Interested in Python, Data Analytics & AI  
+🌱 Currently exploring Machine Learning, FastAPI & Data Visualization
 
-<!--
-**Supanida111/Supanida111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+Python • Pandas • SQL • Data Visualization • Git
 
-Here are some ideas to get you started:
+## Current Projects
+- 📊 Sales Data Analysis
+- 📈 Data Visualization with Python
+- 🤖 AI Chatbot Project
+- ⚡ FastAPI Learning Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+✨ I enjoy learning by building projects and improving my skills step by step  
+💡 Interested in AI, Data Science and Web Applications  
+📍 Based in Thailand 🇹🇭
