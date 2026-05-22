@@ -18,3 +18,9 @@ Python • Pandas • SQL • Data Visualization • Git
 ✨ I enjoy learning by building projects and improving my skills step by step  
 💡 Interested in AI, Data Science and Web Applications  
 📍 Based in Thailand 🇹🇭
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supanida111&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supanida111&layout=compact&theme=tokyonight)
