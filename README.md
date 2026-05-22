@@ -18,5 +18,3 @@ Python • Pandas • SQL • Data Visualization • Git
 ✨ I enjoy learning by building projects and improving my skills step by step  
 💡 Interested in AI, Data Science and Web Applications  
 📍 Based in Thailand 🇹🇭
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Supanida111&theme=tokyonight)
